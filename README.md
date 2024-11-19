@@ -15,3 +15,4 @@ HaloFi is **a user-friendly decentralized finance (DeFi) platform that helps you
 {% embed url="https://youtu.be/fCCWc-5n0pg" %}
 
 > Are you searching for information about GoodGhosting? That was our previous brand name. If you're interested, you can access our older docs by following this [link](https://app.gitbook.com/o/ItTJOxkzAQfWeUr5bLlh/s/yEEvzWYNy0G7zbGeDjkt/).
+
